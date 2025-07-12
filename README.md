@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdul Fahad</h1>
 <h3 align="center">A passionate Unity and Web developer from Pakistan</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fahadshahbaz08" alt="fahadshahbaz08" /></a> </p>
-
-- 🔭 I’m currently working on **My Own Game, along with while working onsite at Tecshield**
+- 🔭 I’m currently working on **My Own Games, along with while working onsite at Tecshield**
 
 - 🌱 I’m currently learning **Unity, Web3, ASP.net backend**
 
