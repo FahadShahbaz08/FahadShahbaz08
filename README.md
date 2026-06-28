@@ -9,6 +9,7 @@
 - 👯 I’m looking to collaborate on **Unity games, multiplayer systems, and web-based game projects**
 - 💬 Ask me about **Unity, C#, Node.js, JavaScript, WebGL, and game networking**
 - 📫 Reach me at: **abdulfahadshahbaz@gmail.com**
+- 🌐 Portfolio: [fahadshahbaz.fun](https://fahadshahbaz.fun)
 
 ---
 
